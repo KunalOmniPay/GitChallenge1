@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.nio.charset.MalformedInputException;
 
 public class sample {
@@ -10,6 +10,3 @@ public class sample {
 		//hello all
 	}
 }
-=======
-//something new
->>>>>>> refs/heads/feature1
